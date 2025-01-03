@@ -1,0 +1,468 @@
+
+[
+    {
+        "id":1,
+        "sport": "football",
+        "name":"Football",
+        "description": "The world's most popular sport, known for its passion, skill, and global tournaments like the FIFA World Cup.",
+        "image":"/Images/football.jpg",
+        "image2":"/Images/football1.jpg",
+        "image3":"/Images/football2.jpg",
+        "image4":"/Images/football3.jpg",
+        "image5":"/Images/fottball4.jpg",
+       "longdescription":"A sport where two teams of 11 players compete to score goals by moving the ball into the other team's goal Football is the world's most popular sport Players use their bodies to run, pass, kick, and propel the ball into the goal, but they can't use their hands or arms, except for the goalkeeper in the penalty area. The team that scores the most goals wins.  Football is played by two teams on a large rectangular shaped grass field.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"The ball used in football is circular and is usually 58–61 cm in size."
+        },
+        {
+            "heading":"Substitutions",
+            "content":  "Each team is allowed up to three substitutions during a game"
+        },
+        {
+            "heading":"Referee",
+            "content":" A referee and two assistants are required for each game. The referee makes sure the game is fair, rules penalties, and can issue yellow and red cards."
+        },
+        {
+            "heading":"Origin",
+            "content":"    Modern football originated in Britain in the 19th century. The first set of rules was established in 1863 by England's Football Association."
+        },
+        {
+            "heading":"Popularity",
+            "content":"Football is the most popular ball game in the world, with over 250 million players and is played in more than 200 countries"
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"The game is played on a rectangular field with a goal at each end. A match consists of two halves, each lasting 45 minutes, with a 15-minute halftime break. Players cannot use their hands or arms to touch the ball (except for the goal keeper within their penalty area). The objective is to score by kicking the ball into the opposing team's goal."
+            },
+            {
+                "heading":"Famous Competition",
+                "content": "The FIFA World Cup is the most prestigious international football competition, held every four years. UEFA Champion league  competition between Europe’s top club teams. English Premier League (EPL): One of the most popular national leagues in the world"
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Lionel Messi: Known for his incredible dribbling, passing, and goal-scoring abilities.Cristiano Ronaldo: Celebrated for his athleticism, precision, and scoring records.Pele & Maradona: Legends of the game who inspired generations with their skills."
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"The most important piece of equipment is the ball, which is made of leather or synthetic materials. Players also wear shin guards, cleats, and jerseys. Goalkeepers wear gloves   and a different type of jersey. "
+            },
+            {
+                "heading":"Why is Football So Popular?",
+                "content":"Universal Appeal: Football transcends borders, languages, and cultures. All you need is a ball and an open space to play. The sport brings communities and nations together, creating unforgettable moments on and off the field."
+            }
+        ]
+    },
+    {
+        "sport": "Tennis",
+        "id": 2,
+        "name":"Tennis",
+        "description": "A fast-paced and skillful sport played on various surfaces, showcasing endurance, precision, and power.",
+        "image":"/Images/tennis.jpg",
+        "image2":"/Images/tennis1.jpg",
+        "image3":"/Images/tennis2.jpg",
+        "image4":"/Images/tennis3.jpg",
+        "image5":"/Images/tennis4.jpg",
+       "longdescription":"A racket sport where players hit a ball over a net into their opponent's court. Players can compete in singles or doubles. In doubles, two players on each team alternate serving. Tennis can improve cardiovascular health, lower blood pressure, increase bone density, and improve muscle tone and flexibility.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"The ball must be yellow or white, between 2.5 and 2.8 in in diameter, and between 1.975 and 2.095 oz in weight. Tennis balls are filled with air and covered with a felt-rubber compound."
+        },
+        {
+            "heading":"Court",
+            "content":"Tennis courts are rectangular and can be made of clay, grass, hard surfaces, or carpet. The court size is 78 ft by 27 ft for singles and 78 ft by 36 ft for doubles."
+        },
+        {
+            "heading":"Scoring",
+            "content":"Points are scored as 15, 30, 40, and game. A tied score is called deuce and play continues until a player has a two-point lead. A match is the best of two out of three or three out of five sets."
+        },
+        {
+            "heading":"Net",
+            "content":"The net is 3 ft high and is supported by posts that are 3.5 ft high."
+        },
+        {
+            "heading":"Interesting Facts",
+            "content":"The first tennis balls were made of wool. The longest tennis match lasted 11 hours and 5 minutes. The fastest serve ever recorded was 163.7 mph."
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"Matches are divided into sets, and players must win at least six games to win a set (with a 2-game lead). Two attempts are allowed for a valid serve; a double fault results in the loss of the point. Coaching during a match is generally prohibited. Touching the net or crossing it during play results in the loss of the point. Players must serve or return within the allotted time (usually 25 seconds) to avoid a time violation. Players lose points if the ball bounces twice, is hit out of bounds, or doesn’t clear the net."
+            },
+            {
+                "heading":"Famous Competition",
+                "content":"Tennis has some unique and exciting competitions that are different from regular tournaments. The Laver Cup is a fun event where Team Europe plays against Team World. The Hopman Cup is special because it has men and women from the same country playing together. The ATP Next Gen Finals is for young players under 21, with new and simple rules like no-let serves. Tie Break Tens is a quick game format where only tiebreaks are played. "
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Tennis has produced some of the most iconic athletes in sports history. Legends like Roger Federer, Rafael Nadal, and Novak Djokovic have dominated the modern era with their incredible skills and record-breaking performances. On the women’s side, Serena Williams and Venus Williams have redefined excellence, inspiring generations of players. Past greats like Steffi Graf, known for her Golden Slam, and Martina Navratilova, with her unmatched versatility, left an indelible mark on the game. Players like Pete Sampras, Billie Jean King, and Björn Borg are also celebrated for their contributions to tennis, making the sport globally admired."
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"Tennis equipment includes various items that are essential for playing the sport. Here’s a list of the primary equipment: Tennis Racket, Balls, Shoes, Tennis Apparel (shirts, shorts, skirts, dresses), bag, Grip Tape, Tennis Net."
+            },
+            {
+                "heading":"Why is Tennis So Popular?",
+                "content":"Tennis is popular due to its global reach, accessibility, and exciting gameplay. It’s a sport that can be played at all levels, from casual games to professional tournaments, and offers significant health benefits like improved cardiovascular health and coordination. With a rich history and legendary players.  The sport’s variety of playing surfaces and mental and physical challenges make it both engaging and rewarding for players and fans alike."
+            }
+        ]
+    },
+    {
+        "id":3,
+        "sport": "basketball",
+        "name":"Basketball",
+        "description": "A high-energy team sport focused on skill and teamwork, to score points by shooting a ball through a hoop. team has twelve players; where five players play, and seven are seated on the bench.",
+        "image":"/Images/basketball.jpg",
+        "image2":"/Images/basketball1.jpg",
+        "image3":"/Images/basketball2.jpg",
+        "image4":"/Images/basketball3.jpg",
+        "image5":"/Images/basketball4.jpg",
+        "longdescription":"A game played between two teams of five players each on a rectangular court,usually indoors.  Invented in 1891 by Dr. James Naismith. Basketball is played with a set of rules and terms. It is a two-team game where both teams compete to score the maximum points. The sport of basketball is known as a fun past time for any person young or old. Basketball is a great way of exercise and a great way to have fun with friends and possibly make some new ones.",
+        "sections":[
+         {
+             "heading":"Ball",
+             "content":"A spherical ball used in basketball games. The standard size 7 ball, with a circumference of 29.5 inches, is used in professional men’s leagues like the NBA, while women’s and youth competitions use slightly smaller sizes. "
+         },
+         {
+             "heading":"Players",
+             "content":" Each team has twelve players; where five players play, and seven are seated on the bench. A team can score one, two, or three points by successfully shooting the ball in the hoop."
+         },
+         {
+             "heading":"Scoring",
+             "content":"points awarded based on the type of shot A field goal scores 2 points when made inside the three-point line and 3 points when made from beyond it. Free throws, awarded after fouls, are worth 1 point each. High-energy plays like layups and dunks typically add 2 points and bring excitement to the game."
+         },
+         {
+             "heading":"Net",
+             "content":" Made from durable materials like nylon or chain, the net enhances visibility by slowing the ball's motion, The standard net length is 15 to 18 inches"
+         },
+         {
+             "heading":"Interesting Facts",
+             "content":"The First Basketball Game Had Only 13 Rules. The First Basketball Hoop Was a Peach Basket. The First Basketball Game Ended With a Score of 1-0. Basketball Became an Olympic Sport in 1936.  Michael Jordan Was Cut From His High School Basketball Team. Kobe Bryant Scored 81 Points in a Single Game."
+         }
+         ],
+         "sections2":[
+             {
+                     "heading":"Rules",
+                     "content":"Only five players per team on the court. Score more than your opponent to win. Score within the shot clock. The ball must be held in or between the hands; the arms or body must not be used for holding it. The ball may be thrown in any direction with one or both hands. A player cannot run with the ball. "
+             },
+             {
+                 "heading":"Famous Competition",
+                 "content":"Basketball boasts a variety of prestigious competitions, with the NBA (National Basketball Association) standing as the pinnacle of professional basketball in the U.S. Additionally, the FIBA Basketball World Cup gathers top national teams globally, while March Madness captivates college basketball fans with its thrilling annual tournament. The EuroLeague represents the best of European club basketball, and the Olympic Basketball Tournament offers a global stage every four years. For women's basketball, the WNBA is the premier league, and the NBA All-Star Weekend showcases the sport’s brightest stars through events like the All-Star Game and Slam Dunk Contest. "
+             },
+             {
+                 "heading":"Famous Players",
+                 "content":"Some of the most famous basketball players include Michael Jordan, often regarded as the greatest basketball player of all time, known for his incredible skill, leadership, and six NBA championships with the Chicago Bulls. LeBron James, a modern legend, has achieved numerous accolades, including four NBA championships.  Kobe Bryant, with his legendary Mamba Mentality, led the Los Angeles Lakers to five NBA titles. Other iconic players include Magic Johnson, known for his playmaking and leadership, and Larry Bird, a fierce competitor and one of the greatest forwards in NBA history. International stars like Dirk Nowitzki and Yao Ming have also left a lasting legacy, helping to globalize the sport."
+             }
+         ],
+         "sections3":[
+             {
+                 "heading":"Equipment",
+                 "content":"Basketball requires essential equipment to ensure proper play and safety. basketball, basketball hoop, basketball court, basketball shoes, protective gear such as knee pads, ankle braces, and mouthguards to prevent injuries. "
+             },
+             {
+                 "heading":"Why is Basketball So Popular?",
+                 "content":"Basketball is popular due to its fast-paced, exciting gameplay, making it engaging for fans. It's easy to play anywhere with just a ball and hoop,  The NBA's widespread influence and legendary players like Michael Jordan and LeBron James have helped elevate the sport’s status worldwide. Basketball is also deeply embedded in popular culture"
+             }
+         ]
+    },
+    {
+        "id":4,
+        "name":"Cricket",
+        "description":"Cricket is a thrilling bat-and-ball game where two teams compete to score the most runs. Loved worldwide, it features formats like Test matches, ODIs, and T20s, blending strategy and excitement.",
+        "image":"/Images/cricket.jpg",
+        "sport": "cricket",
+        "image2":"/Images/cricket1.jpg",
+        "image3":"/Images/cricket2.jpg",
+        "image4":"/Images/cricket3.jpg",
+        "image5":"/Images/cricket4.jpg",
+       "longdescription":"A bat-and-ball sport played between two teams of 11 players on an oval-shaped field. The field has a rectangular pitch in the middle, with two sets of three wooden posts called wickets at each end.  It was invented in the 16th century in England, but it was a long time before modern rules were used.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"A cricket ball is a hard, solid ball used in the sport of cricket. It is made up of a cork core, wound with string, and covered with a leather case."
+        },
+        {
+            "heading":"Players",
+            "content":"Two players from the batting team stand in front of a wicket, while the bowler from the fielding team bowls the ball towards the striker's wicket. Two umpires are on the field and decide when a batter is out."
+        },
+        {
+            "heading":"Turns",
+            "content":"The sides take turns batting and bowling, with each turn called an innings. The number of innings each side has depends on the match duration. "
+        },
+        {
+            "heading":"Formats of Cricket",
+            "content":"Cricket is played in several formats, each offering a different pace and style of play. Test cricket is the longest format, lasting up to five days, where each team plays two innings. One-Day Internationals (ODIs) are limited to 50 overs per side, making the game faster and more result-oriented, with both teams having a single innings. Twenty20 (T20) cricket is the shortest format, with each team playing just 20 overs. It is known for its high-energy, fast-paced nature, focusing on big hits and rapid scoring."
+        },
+        {
+            "heading":"Interesting Facts",
+            "content":"The first recorded cricket match took place in 1646 in Kent, England, while the modern version of the game developed in the 18th century. Sachin Tendulkar holds the record for the most runs in One-Day Internationals (ODIs), with a remarkable 18,426 runs. The fastest century in ODIs was scored by Shahid Afridi, who reached 100 runs off just 37 balls. Sir Don Bradman, widely regarded as the greatest batsman in history, set an unbreakable Test batting average of 99.94. The longest Test match, played between South Africa and England in 1939, lasted an astonishing 10 days,T20 cricket, the shortest format, debuted in 2005 with a match between New Zealand and Australia. The Narendra Modi Stadium in India is the world’s largest cricket stadium, holding over 132,000 spectators. Sachin Tendulkar and Virat Kohli achieving legendary status."
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"The main objective in cricket is to score as many runs as possible against the opponent. A bowler delivers six legal balls (called an over) in succession from one end of the pitch. After six balls, another bowler takes over from the other end. In ODIs, each team is limited to 50 overs, and in T20s, each team has 20 overs. The batter hits the ball and it is caught by a fielder before touching the ground.  The fielding team tries to limit the batting team’s runs and dismiss the batters. Fielders are positioned strategically on the field to stop the ball and catch it."
+            },
+            {
+                "heading":"Famous Competition",
+                "content":" ICC Cricket World Cup, held every four years, The Indian Premier League (IPL) is another major tournament, known for its fast-paced Twenty20 (T20) format, The Ashes series between England and Australia is one of the oldest and most celebrated rivalries in cricket, The ICC T20 World Cup is the premier competition for T20 cricket, where teams compete in the shortest format of the game. In Australia, the Big Bash League (BBL) provides exciting T20 action, County Championship in England is one of the oldest domestic first-class cricket competitions, while the Caribbean Premier League (CPL) is a T20 league in the West Indies that offers thrilling cricket with a festive atmosphere."
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Some of the most famous cricket players in history have left an indelible mark on the sport. Sachin Tendulkar of India, often called the Master Blaster, is considered one of the greatest batsmen of all time, Sir Don Bradman, from Australia, is revered for his unmatched batting average of 99.94 in Test cricket, Virat Kohli, another Indian cricket legend, Shane Warne, one of the greatest leg spinners, Jacques Kallis of South Africa was a phenomenal all-rounder, excelling both with the bat and ball. Muttiah Muralitharan, Sri Lanka's legendary spinner, Chris Gayle of the West Indies is known for his explosive batting, particularly in T20 cricket, making him one of the most feared hitters in the game. "
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"Cricket requires several key pieces of equipment for both players and the game itself. the Bat & Ball, Wickets, Protective gear,  helmets, gloves, pads, and abdomen guards to safeguard against injury. Shoes, bowling crease and the pitch (22 yards long),  boundary ropes."
+            },
+            {
+                "heading":"Why is Cricket So Popular?",
+                "content":"Cricket is immensely popular worldwide due to a combination of factors. Firstly, its rich history and tradition, especially in countries like India, Australia, England, and Pakistan, have deeply ingrained the sport into the culture. The global reach of cricket, with major events like the ICC Cricket World Cup, IPL, and T20 World Cup, The sport also fosters community, with local leagues and friendly matches bringing people together. The rise of social media, coupled with the glamour of international cricket stars like Virat Kohli, Sachin Tendulkar, and Shane Warne."
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"volleyball",
+        "description":"Volleyball is an exciting team sport where players aim to hit the ball over the net into the opponent's court, combining agility, teamwork, and strategic plays.",
+        "image":"/Images/volleyball.jpg",
+        "sport": "volleyball",
+        "image2":"/Images/volleyball1.jpg",
+        "image3":"/Images/volleyball2.jpg",
+        "image4":"/Images/volleyball3.jpg",
+        "image5":"/Images/volleyball4.jpg",
+       "longdescription":"A team sport where players use their hands and arms to hit a ball over a net. After a team wins a point, all players rotate one position clockwise. To score points by keeping the ball in the air and landing it in the opponent's court. Volleyball can be played indoors or on the beach. Beach volleyball has two players per side.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"Spherical object designed for the sport of volleyball. It is typically made of synthetic leather or rubber and is filled with air to maintain its shape and bounce. The standard volleyball has a circumference of about 65-67 cm (25.5-26.5 inches) and weighs around 260-280 grams (9.2-9.9 ounces)."
+        },
+        {
+            "heading":"Court",
+            "content":" A court with a net that splits the court in half. "
+        },
+        {
+            "heading":"History",
+            "content":"William G. Morgan invented volleyball in 1895 while working as the physical education director at the YMCA in Holyoke, Massachusetts. He originally called the game mintonette because it was derived from badminton. "
+        },
+        {
+            "heading":"Net",
+            "content":"The net is typically placed at a height of 2.43 meters (7 feet 11 5/8 inches) for men's competitions and 2.24 meters (7 feet 4 1/8 inches) for women's competitions. It is made of strong, durable material like nylon or polyester and consists of a series of small squares to allow the ball to pass through."
+        },
+        {
+            "heading":"Interesting Facts",
+            "content":"It became an official Olympic sport in 1964, with beach volleyball joining the Olympic program in 1996. A noteworthy record is the longest volleyball rally, lasting 36 minutes between Italy and Bulgaria in 2011.  Volleyball is played by millions around the world, with countries like Brazil, the USA, and Russia having the highest participation rates.  the largest volleyball match, with over 10,000 players, took place in Turkey in 2015."
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"Each team is allowed three touches of the ball before returning it over the net. The first team to score 15 points wins. 6 players on a team, 3 on the front row and 3 on the back row. a team must score five points and win by two to take the match."
+            },
+            {
+                "heading":"Famous Competition",
+                "content":"The FIVB Volleyball World Cup, held every four years, is one of the most prestigious tournaments, where national teams compete for the title of world champion. Another major event is the FIVB Volleyball World Championship, a biennial competition that gathers the best teams in the world to compete for the title in both indoor and beach volleyball. The Olympic Games also feature volleyball, where teams from different countries battle for gold, silver, and bronze medals in both indoor and beach volleyball."
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Karch Kiraly from the USA is widely regarded as the greatest volleyball player of all time, having won three Olympic gold medals, two in indoor volleyball and one in beach volleyball. Giba of Brazil is another legend, known for his leadership and dominance, with three Olympic gold medals, Misty May-Treanor and Kerri Walsh Jennings, both from the USA, became icons by winning three Olympic gold medals together. Wilfredo León, originally from Cuba and now representing Poland, ergey Tetyukhin from Russia is another legend, boasting four Olympic gold medals in his career. Paola Egonu from Italy, one of the rising stars in women's volleyball, is already regarded as one of the best attackers in the sport."
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"The volleyball ball, net, court, protective gear such as knee pads, ankle supports, and jerseys are worn to reduce the risk of injury, Shoes with rubber soles."
+            },
+            {
+                "heading":"Why is Volleyball So Popular?",
+                "content":"It is a global sport,  Volleyball is also a highly social sport, often played in teams, which fosters camaraderie and teamwork. The Olympic Games and international competitions like the FIVB World Cup and Beach Volleyball World Tour have helped boost its visibility, "
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Hockey",
+        "description":"Hockey is a fast-paced team sport where players use sticks to hit a ball or puck, aiming to score goals. It's known for its skill, speed, and strategic gameplay.",
+        "image":"/Images/hockey.jpg",
+        "sport": "hockey",
+        "image2":"/Images/hockey1.jpg",
+        "image3":"/Images/hockey2.jpg",
+        "image4":"/Images/hockey3.jpg",
+        "image5":"/Images/hockey4.jpg",
+       "longdescription":"A team sport that involves two teams competing to score goals by pushing a ball or puck into the other team's net. Field hockey is played on grass or turf, using a ball and curved sticks. usually with 11 players per team. The game is most popular in countries like India, the Netherlands, Australia, and Germany.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"It is typically made of solid plastic or a composite material and is designed to be durable and provide consistent performance on various surfaces, such as grass or artificial turf."
+        },
+        {
+            "heading":"Origin",
+            "content":"The origins of hockey are unclear, but it may have originated from the Middle French word hoquet, which means shepherd's staff. There is evidence that a similar game was played in Egypt and South America 4,000 years ago. The modern game of field hockey developed in the British Isles in the mid-1800s."
+        },
+        {
+            "heading":"Scoring",
+            "content":"A goal is scored when the ball crosses the goal line between the posts and under the crossbar within the shooting circle."
+        },
+        {
+            "heading":"Game Duration",
+            "content":"Field hockey matches are typically played in two halves of 35 minutes each, with a short halftime interval. However, some tournaments or leagues may have different durations."
+        },
+        {
+            "heading":"Interesting Facts",
+            "content":"Field hockey is one of the oldest team sports in the world, with origins dating back over 4,000 years in ancient Egypt, Greece, and Persia. It became an Olympic sport in 1908 for men and 1980 for women. The sport is played by over 1.5 billion people worldwide, with countries like India, the Netherlands, and Australia being particularly dominant. India has a remarkable history in the sport, having won eight Olympic gold medals. The Hockey World Cup is the largest tournament, showcasing the best teams from around the globe."
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"Players can pass, dribble, and shoot the ball, but they cannot use their feet or body to touch the ball. If a serious foul happens inside the shooting area, the opposing team can be awarded a penalty corner or penalty stroke. The match lasts two halves of 35 minutes each, with breaks in between."
+            },
+            {
+                "heading":"Famous Competition",
+                "content":"Some of the most famous field hockey competitions include the FIH Hockey World Cup, which is the premier international tournament held every four years for both men and women. The Olympic Games also feature field hockey, with top teams from around the world competing for gold since its introduction in 1908 for men and 1980 for women. The Hockey Pro League is a newer annual competition where national teams compete in home-and-away matches. The Commonwealth Games is another major event, popular among countries like India, Australia, and England. Additionally, Asia Cup, EuroHockey Championship, and Pan American Cup"
+            },
+            {
+                "heading":"Famous Players",
+                "content":" Dhyan Chand from India, often regarded as one of the greatest players in history, who won three Olympic gold medals and was known for his exceptional dribbling skills. Jamie Dwyer of Australia is another legendary player, with four Olympic medals, including three golds, and multiple FIH Player of the Year awards. Teun de Nooijer from the Netherlands is a two-time Olympic gold medalist and a key figure in Dutch field hockey. Luciana Aymar of Argentina, widely considered one of the best female players, has won two Olympic medals and been named FIH Player of the Year multiple times. Mark Knowles, an Australian player known for his defensive prowess, has earned multiple Olympic medals, including a gold. "
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"Players use sticks and balls or pucks, and wear protective gear."
+            },
+            {
+                "heading":"Why is Hockey So Popular?",
+                "content":"Field hockey is popular for several reasons. It is played by over 1.5 billion people worldwide, making it one of the most widely practiced sports. The sport’s inclusion in the Olympic Games since 1908 for men and 1980 for women has helped boost its global visibility. field hockey is accessible, requiring minimal equipment and being played by both men and women at all levels, from amateur to professional. In countries like India and the Netherlands, field hockey has deep cultural significance and continues to inspire new generations, further solidifying its global popularity."
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Snooker",
+        "description":"Snooker is a cue sport played on a rectangular table with six pockets. Players use a cue stick to pot 15 red balls and six colored balls in a specific order to score points. ",
+        "image":"/Images/snooker.jpg",
+        "sport": "snooker",
+        "image2":"/Images/snooker1.jpg",
+        "image3":"/Images/snooker2.jpg",
+        "image4":"/Images/snooker3.jpg",
+        "image5":"/Images/snooker4.jpg",
+       "longdescription":"A cue sport played on a billiards table with a set of 21 balls: a white cue ball, 15 red balls, and 6 colored balls (yellow, green, brown, blue, pink, and black). The primary objective is to score more points than the opponent by potting the balls into the pockets in a specific order.",
+       "sections":[
+        {
+            "heading":"Ball",
+            "content":"One white cue ball, 15 red balls, and six colored balls: yellow (2 points), green (3), brown (4), blue (5), pink (6), and black (7)"
+        },
+        {
+            "heading":"Scoring",
+            "content":" The red balls are worth 1 point each, while the colored balls have different point values. For example, the yellow ball is worth 2 points, the green ball 3 points, and the black ball is worth 7 points."
+        },
+        {
+            "heading":"Table",
+            "content":"A rectangular table covered in green cloth called baize, with six pockets "
+        },
+        {
+            "heading":"History",
+            "content":"Snooker originated in the late 19th century in India, and it was later refined and popularized in the United Kingdom. It began as a variation of billiards and evolved into a distinct sport. The term snooker was originally used in British Army slang to describe a rookie or inexperienced soldier,"
+        },
+        {
+            "heading":"Tournaments",
+            "content":"the World Snooker Championship, other significant tournaments include the China Open, The Masters, and UK Championship. These events feature the best players competing for major titles and rankings points."
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"Players take turns to pot the red balls followed by a colored ball in sequence, earning points for each successful shot. Once all reds are potted, the colored balls must be potted in a specific order from lowest to highest value. A foul, such as potting the wrong ball or missing the cue ball, awards points to the opponent. The player with the highest score at the end of the game wins."
+            },
+            {
+                "heading":"Championship",
+                "content":"The World Snooker Championship is the most prestigious snooker tournament, held annually at the Crucible Theatre in Sheffield, England. UK Championship and The Masters, which, along with the World Championship, form snooker’s Triple Crown events. These competitions showcase the highest level of snooker and are followed by millions of fans globally. the China Open and the Champion of Champions have further expanded the sport’s popularity, especially in Asia."
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Some of the most famous snooker players include Ronnie O'Sullivan, often regarded as the greatest snooker player of all time, known for his quick playing style and record-breaking achievements, including seven World Championships. Stephen Hendry dominated the 1990s, winning seven World titles, Steve Davis, a six-time World Champion, was a key figure in snooker's rise to popularity during the 1980s. John Higgins, with four World Championship titles, Ding Junhui, a Chinese superstar, has played a crucial role in popularizing snooker in Asia, earning numerous titles."
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"A snooker table, balls, cue stick, chalk, and a triangle rack. The table is rectangular, covered with green baize, and has six pockets,  snooker balls consist of a white cue ball, 15 red balls, and 6 colored balls (yellow, green, brown, blue, pink, and black), The cue stick, typically made of wood or composite materials, triangle rack."
+            },
+            {
+                "heading":"Why is Snooker So Popular?",
+                "content":"Snooker is popular due to its unique combination of skill, strategy, and mental challenge. Snooker is popular due to its unique combination of skill, strategy, and mental challenge. "
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Badminton",
+        "description":"Badminton is a fast-paced racquet sport played on a rectangular court divided by a net. Players hit a shuttlecock back and forth, aiming to score points by landing it in the opponent's court. It can be played in singles (1v1) or doubles (2v2) formats.",
+        "image":"/Images/badmintion.jpg",
+        "sport": "badminton",
+        "image2":"/Images/badmintion1.jpg",
+        "image3":"/Images/badmintion2.jpg",
+        "image4":"/Images/badmintion3.jpg",
+        "image5":"/Images/badmintion4.jpg",
+       "longdescription":"Badminton is a fast-paced and exciting sport played with a shuttlecock and rackets. It is typically played indoors on a rectangular court divided by a net. The objective of the game is to hit the shuttlecock back and forth over the net, with the aim of scoring points by landing the shuttlecock in the opponent’s side of the court. The game can be played in various formats, including singles (one player per side) and doubles (two players per side). ",
+       "sections":[
+        {
+            "heading":"Court Dimensions",
+            "content":"A standard badminton court is 13.4 meters (44 feet) long and 6.1 meters (20 feet) wide for doubles matches. For singles, the width of the court is reduced to 5.18 meters (17 feet)."
+        },
+        {
+            "heading":"Rallying",
+            "content":"Once the shuttlecock is served, both players (or teams) take turns hitting the shuttlecock back and forth, aiming to land it in the opponent’s court."
+        },
+        {
+            "heading":"Scoring",
+            "content":" A match is typically played to 21 points, with players needing to win by at least two points. Points are scored either when the opponent fails to return the shuttlecock or when they hit it out of bounds."
+        },
+        {
+            "heading":"Net",
+            "content":"The net is typically 1.55 meters (5 feet 1 inch) high at the center of the court and 1.52 meters (5 feet) high at the posts on either side. It stretches across the full width of the court. he net is generally made from nylon, polyester"
+        },
+        {
+            "heading":"Interesting Facts",
+            "content":"An interesting fact about badminton is that it is one of the fastest racket sports in the world. The shuttlecock can reach speeds of over 200 miles per hour (320 km/h) during a smash. The current world record for the fastest recorded shuttlecock speed is 332 km/h (206 mph), set by Fu Haifeng of China in 2005. "
+        }
+        ],
+        "sections2":[
+            {
+                    "heading":"Rules",
+                    "content":"A match is typically played to 21 points, and players must win by at least 2 points. when the shuttlecock lands out of bounds, the net is touched during a rally, or a player double-hits the shuttlecock. In doubles, players alternate hits and serve, with sides switched after each game or when one player/team reaches 11 points in the third game."
+            },
+            {
+                "heading":"Famous Competition",
+                "content":"Some of the most famous badminton competitions include the All England Open Badminton Championships,  The BWF World Championships is another significant event, where top players compete for the title of World Champion. Badminton in the Olympic Games has been a major highlight since 1992, Team events like the Thomas Cup (men’s) and Uber Cup (women’s) bring together national teams to compete for world supremacy. The Sudirman Cup is the World Mixed Team Championship, while the China Open and Indonesia Open are major stops on the BWF World Tour, featuring the world's best players."
+            },
+            {
+                "heading":"Famous Players",
+                "content":"Some of the most famous badminton players include Lin Dan from China, Lee Chong Wei from Malaysia, a legendary player who held the world No. 1 ranking for a record 349 weeks and won three Olympic silver medals, P.V. Sindhu from India has made history with her silver medal at the 2016 Olympics and gold at the 2019 World Championships. Carolina Marin from Spain, a two-time Olympic gold medalist and five-time World Champion, Taufik Hidayat from Indonesia, known for his powerful backhand and Olympic gold in 2004, is another badminton legend. Saina Nehwal, also from India, Chen Long from China, the 2016 Olympic gold medalist and 2014 World Champion."
+            }
+        ],
+        "sections3":[
+            {
+                "heading":"Equipment",
+                "content":"The racket is lightweight, typically made of materials like graphite or carbon fiber,  shuttlecock, net, court itself is rectangular, shoes, Comfortable clothing."
+            },
+            {
+                "heading":"Why is Badmintion So Popular?",
+                "content":"Badminton is popular for several reasons. It is easy to learn, The sport requires minimal equipment—just rackets, shuttlecocks, and a net making it affordable and accessible.  It provides great health benefits, improving cardiovascular fitness, reflexes, coordination, and endurance. The game is social and family-friendly, its global reach, especially in countries like China, India, and Indonesia, badminton's popularity continues to grow and  its versatility allows for both indoor and outdoor play."
+            }
+        ]
+    }
+    
+]
